@@ -1,0 +1,66 @@
+TECHNICAL DOCUMENTATION - "STELLAR CODEX: LEGACY OF CIVILIZATIONS"
+1. OVERVIEW
+"Stellar Codex: Legacy of Civilizations" is a sci-fi educational RPG with procedurally generated planetary systems. The player is an archaeologist exploring abandoned worlds of ancient civilizations. Core gameplay loop: planetary exploration, solving scientific puzzles, collecting artifacts.
+
+Development Goals:
+Intuitive gameplay (exploration + puzzles)
+High replayability through procedural generation
+Seamless integration of educational content into gameplay
+
+2. GAME MECHANICS
+
+2.1 Controls and Exploration
+Actions: movement, jump (jetpack), scanner, interaction
+Ship Hub: orbital management, landing site selection
+Physics: variable gravity, vacuum, hazardous environments
+
+2.2 Educational System (Codex)
+Disciplines: Astrophysics, Xenobiology, Cryptography
+Mechanics: scanning artifacts unlocks encyclopedia entries
+Puzzles: based on real scientific principles
+Progression: KP (Knowledge Points) for learning new topics
+
+2.3 RPG System
+
+Skills: Scientist, Pilot, Engineer, Linguist
+Dialogue: impacts reputation and progression paths
+
+2.4 Threats and Enemies
+Threat Types: combat drones, wild fauna, environmental hazards
+AI: simple FSM (Patrol, Alert, Attack)
+Bosses: ruin guardians with vulnerabilities based on scientific principles
+
+3. PROCEDURAL GENERATION
+
+3.1 Planet Modules
+JSON description: type, gravity, atmosphere, threats, points of interest
+
+3.2 Generation Algorithm
+Star system generation
+POI and resource distribution
+Unique quest creation
+
+4. SYSTEMS AND ARCHITECTURE
+
+4.1 Data Formats
+planets/*.json - planet modules
+codex/*.json - educational articles
+quests/*.json - procedural quests
+
+4.2 Save System
+Meta-progress: Codex, technologies, reputation
+Session progress: saved when returning to ship
+
+5. ART AND SOUND
+Style: "pseudo-pixelart" retro-futurism
+Sound: atmospheric soundtrack, sci-fi sound effects
+
+6. PERFORMANCE AND PLATFORMS
+Target: 60 FPS on PC and consoles
+Platforms: PC (Steam), PlayStation, Xbox, Switch
+
+7. MVP
+1 star system with 3 planet types
+Codex with 2 disciplines (15 entries)
+3 puzzle types, basic progression system
+Planet generator + basic UI
