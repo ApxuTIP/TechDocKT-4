@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="ChatGPT" creationtoolversion="1.0" datatype="PlainText" segtype="sentence" adminlang="en-US" srclang="ru" o-tmf="TMX"/>
+  <body>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>ТЕХНИЧЕСКАЯ ДОКУМЕНТАЦИЯ - "ЗВЕЗДНЫЙ КОДЕКС: НАСЛЕДИЕ ЦИВИЛИЗАЦИЙ"</seg></tuv>
+      <tuv xml:lang="en-US"><seg>TECHNICAL DOCUMENTATION - "STELLAR CODEX: LEGACY OF CIVILIZATIONS"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>1. ОБЩЕЕ ОПИСАНИЕ</seg></tuv>
+      <tuv xml:lang="en-US"><seg>1. OVERVIEW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>«Звездный Кодекс: Наследие Цивилизаций» — научно-фантастическая образовательная RPG с процедурно генерируемыми планетными системами.</seg></tuv>
+      <tuv xml:lang="en-US"><seg>"Stellar Codex: Legacy of Civilizations" is a sci-fi educational RPG with procedurally generated planetary systems.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Игрок - археолог, исследующий заброшенные миры древних цивилизаций.</seg></tuv>
+      <tuv xml:lang="en-US"><seg>The player is an archaeologist exploring abandoned worlds of ancient civilizations.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Основной цикл: исследование планет, решение научных головоломок, сбор артефактов.</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Core gameplay loop: planetary exploration, solving scientific puzzles, collecting artifacts.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Цели разработки:</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Development Goals:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Интуитивный геймплей (исследование + головоломки)</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Intuitive gameplay (exploration + puzzles)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Реиграбельность за счет процедурной генерации</seg></tuv>
+      <tuv xml:lang="en-US"><seg>High replayability through procedural generation</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Органичная интеграция образования в игровой процесс</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Seamless integration of educational content into gameplay</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>2. ИГРОВАЯ МЕХАНИКА</seg></tuv>
+      <tuv xml:lang="en-US"><seg>2. GAME MECHANICS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>2.1 Управление и исследование</seg></tuv>
+      <tuv xml:lang="en-US"><seg>2.1 Controls and Exploration</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Действия: движение, прыжок (реактивный ранец), сканер, взаимодействие</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Actions: movement, jump (jetpack), scanner, interaction</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Корабль-хаб: управление на орбите, выбор точек высадки</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Ship Hub: orbital management, landing site selection</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Физика: переменная гравитация, вакуум, опасные среды</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Physics: variable gravity, vacuum, hazardous environments</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>2.2 Образовательная система (Кодекс)</seg></tuv>
+      <tuv xml:lang="en-US"><seg>2.2 Educational System (Codex)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Дисциплины: Астрофизика, Ксенобиология, Криптография</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Disciplines: Astrophysics, Xenobiology, Cryptography</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Механика: сканирование артефактов открывает записи в энциклопедии</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Mechanics: scanning artifacts unlocks encyclopedia entries</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Головоломки: основаны на реальных научных принципах</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Puzzles: based on real scientific principles</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Прогресс: ОЗ (Очки Знаний) за изучение новых тем</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Progression: KP (Knowledge Points) for learning new topics</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>2.3 RPG-система</seg></tuv>
+      <tuv xml:lang="en-US"><seg>2.3 RPG System</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Навыки: Ученый, Пилот, Инженер, Лингвист</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Skills: Scientist, Pilot, Engineer, Linguist</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Диалоги: влияние на репутацию и варианты прохождения</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Dialogue: impacts reputation and progression paths</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>2.4 Угрозы и противники</seg></tuv>
+      <tuv xml:lang="en-US"><seg>2.4 Threats and Enemies</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Типы угроз: боевые дроны, дикая фауна, природные условия</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Threat Types: combat drones, wild fauna, environmental hazards</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>AI: простые FSM (Patrol, Alert, Attack)</seg></tuv>
+      <tuv xml:lang="en-US"><seg>AI: simple FSM (Patrol, Alert, Attack)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Боссы: стражи руин с уязвимостями, основанными на научных принципах</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Bosses: ruin guardians with vulnerabilities based on scientific principles</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>3. ПРОЦЕДУРНАЯ ГЕНЕРАЦИЯ</seg></tuv>
+      <tuv xml:lang="en-US"><seg>3. PROCEDURAL GENERATION</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>3.1 Модули планет</seg></tuv>
+      <tuv xml:lang="en-US"><seg>3.1 Planet Modules</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>JSON-описание: тип, гравитация, атмосфера, угрозы, точки интереса</seg></tuv>
+      <tuv xml:lang="en-US"><seg>JSON description: type, gravity, atmosphere, threats, points of interest</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>3.2 Алгоритм генерации</seg></tuv>
+      <tuv xml:lang="en-US"><seg>3.2 Generation Algorithm</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Генерация звездной системы</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Star system generation</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Распределение POI и ресурсов</seg></tuv>
+      <tuv xml:lang="en-US"><seg>POI and resource distribution</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Создание уникальных квестов</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Unique quest creation</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>4. СИСТЕМЫ И АРХИТЕКТУРА</seg></tuv>
+      <tuv xml:lang="en-US"><seg>4. SYSTEMS AND ARCHITECTURE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>4.1 Форматы данных</seg></tuv>
+      <tuv xml:lang="en-US"><seg>4.1 Data Formats</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>planets/*.json - модули планет</seg></tuv>
+      <tuv xml:lang="en-US"><seg>planets/*.json - planet modules</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>codex/*.json - образовательные статьи</seg></tuv>
+      <tuv xml:lang="en-US"><seg>codex/*.json - educational articles</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>quests/*.json - процедурные квесты</seg></tuv>
+      <tuv xml:lang="en-US"><seg>quests/*.json - procedural quests</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>4.2 Сохранение</seg></tuv>
+      <tuv xml:lang="en-US"><seg>4.2 Save System</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Мета-прогресс: Кодекс, технологии, репутация</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Meta-progress: Codex, technologies, reputation</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Прогресс сессии: сохраняется при возврате на корабль</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Session progress: saved when returning to ship</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>5. АРТ И ЗВУК</seg></tuv>
+      <tuv xml:lang="en-US"><seg>5. ART AND SOUND</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Стиль: "псевдопиксельарт" в стиле ретрофутуризма</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Style: "pseudo-pixelart" retro-futurism</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Звук: атмосферный саундтрек, научно-фантастические эффекты</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Sound: atmospheric soundtrack, sci-fi sound effects</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>6. ПРОИЗВОДИТЕЛЬНОСТЬ И ПЛАТФОРМЫ</seg></tuv>
+      <tuv xml:lang="en-US"><seg>6. PERFORMANCE AND PLATFORMS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Цель: 60 FPS на PC и консолях</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Target: 60 FPS on PC and consoles</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Платформы: PC (Steam), PlayStation, Xbox, Switch</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Platforms: PC (Steam), PlayStation, Xbox, Switch</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>7. MVP</seg></tuv>
+      <tuv xml:lang="en-US"><seg>7. MVP</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>1 звездная система с 3 типами планет</seg></tuv>
+      <tuv xml:lang="en-US"><seg>1 star system with 3 planet types</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Кодекс с 2 дисциплинами (15 записей)</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Codex with 2 disciplines (15 entries)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>3 типа головоломок, базовая прокачка</seg></tuv>
+      <tuv xml:lang="en-US"><seg>3 puzzle types, basic progression system</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU"><seg>Генератор планет + базовый UI</seg></tuv>
+      <tuv xml:lang="en-US"><seg>Planet generator + basic UI</seg></tuv>
+    </tu>
+  </body>
+</tmx>
